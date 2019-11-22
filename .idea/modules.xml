@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Extract_Addresses_from_Excel_Rows.iml" filepath="$PROJECT_DIR$/.idea/Extract_Addresses_from_Excel_Rows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../googleMaps_parsing/.idea/googleMaps_parsing.iml" filepath="$PROJECT_DIR$/../googleMaps_parsing/.idea/googleMaps_parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" filepath="$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" />
+    </modules>
+  </component>
+</project>
